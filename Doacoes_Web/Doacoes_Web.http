@@ -1,0 +1,6 @@
+@Doacoes_Web_HostAddress = http://localhost:5271
+
+GET {{Doacoes_Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
