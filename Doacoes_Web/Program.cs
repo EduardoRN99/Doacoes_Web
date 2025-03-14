@@ -1,15 +1,23 @@
-var builder = WebApplication.CreateBuilder(args);
+using Infrastructure.Context;
+using Microsoft.EntityFrameworkCore;
+using SQLitePCL;
 
-// Add services to the container.
+var builder = WebApplication.CreateBuilder(args);
+Batteries.Init();
+
+
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection"),
+    b => b.MigrationsAssembly("Doacoes_Web")));
 
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();

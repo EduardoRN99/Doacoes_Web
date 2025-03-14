@@ -1,0 +1,15 @@
+C:\filles dotnet\Doacoes_Web\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\filles dotnet\Doacoes_Web\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\filles dotnet\Doacoes_Web\Domain\bin\Debug\net8.0\Domain.dll
+C:\filles dotnet\Doacoes_Web\Domain\bin\Debug\net8.0\Domain.pdb
+C:\filles dotnet\Doacoes_Web\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\filles dotnet\Doacoes_Web\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\filles dotnet\Doacoes_Web\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\filles dotnet\Doacoes_Web\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\filles dotnet\Doacoes_Web\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\filles dotnet\Doacoes_Web\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\filles dotnet\Doacoes_Web\Domain\obj\Debug\net8.0\Domain.dll
+C:\filles dotnet\Doacoes_Web\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\filles dotnet\Doacoes_Web\Domain\obj\Debug\net8.0\Domain.pdb
+C:\filles dotnet\Doacoes_Web\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\filles dotnet\Doacoes_Web\Domain\obj\Debug\net8.0\ref\Domain.dll

@@ -3,6 +3,58 @@
   "WorkspaceRootPath": "C:\\filles dotnet\\Doacoes_Web\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\filles dotnet\\Doacoes_Web\\Doacoes_Web\\Migrations\\20250314010548_Add colunas tabela doacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Doacoes_Web\\Migrations\\20250314010548_Add colunas tabela doacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B67474-6F72-4F8F-B1AF-EB6D5E2F505C}|Domain\\Domain.csproj|c:\\filles dotnet\\doacoes_web\\domain\\entities\\models\\doacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B67474-6F72-4F8F-B1AF-EB6D5E2F505C}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\models\\doacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B67474-6F72-4F8F-B1AF-EB6D5E2F505C}|Domain\\Domain.csproj|c:\\filles dotnet\\doacoes_web\\domain\\entities\\enums\\unidademedida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B67474-6F72-4F8F-B1AF-EB6D5E2F505C}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\enums\\unidademedida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\filles dotnet\\Doacoes_Web\\Doacoes_Web\\Migrations\\20250314005447_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Doacoes_Web\\Migrations\\20250314005447_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156A416B-A637-4983-B34A-9B1D09391E96}|Infrastructure\\Infrastructure.csproj|c:\\filles dotnet\\doacoes_web\\infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156A416B-A637-4983-B34A-9B1D09391E96}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A14FBB1-ED05-4990-B588-B60E2818453D}|Doacoes_Web\\Doacoes_Web.csproj|c:\\filles dotnet\\doacoes_web\\doacoes_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A14FBB1-ED05-4990-B588-B60E2818453D}|Doacoes_Web\\Doacoes_Web.csproj|solutionrelative:doacoes_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156A416B-A637-4983-B34A-9B1D09391E96}|Infrastructure\\Infrastructure.csproj|c:\\filles dotnet\\doacoes_web\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{156A416B-A637-4983-B34A-9B1D09391E96}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A14FBB1-ED05-4990-B588-B60E2818453D}|Doacoes_Web\\Doacoes_Web.csproj|c:\\filles dotnet\\doacoes_web\\doacoes_web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A14FBB1-ED05-4990-B588-B60E2818453D}|Doacoes_Web\\Doacoes_Web.csproj|solutionrelative:doacoes_web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B67474-6F72-4F8F-B1AF-EB6D5E2F505C}|Domain\\Domain.csproj|c:\\filles dotnet\\doacoes_web\\domain\\entities\\models\\doador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B67474-6F72-4F8F-B1AF-EB6D5E2F505C}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\models\\doador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B67474-6F72-4F8F-B1AF-EB6D5E2F505C}|Domain\\Domain.csproj|c:\\filles dotnet\\doacoes_web\\domain\\entities\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B67474-6F72-4F8F-B1AF-EB6D5E2F505C}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B67474-6F72-4F8F-B1AF-EB6D5E2F505C}|Domain\\Domain.csproj|c:\\filles dotnet\\doacoes_web\\domain\\entities\\models\\doador_empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B67474-6F72-4F8F-B1AF-EB6D5E2F505C}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\models\\doador_empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B67474-6F72-4F8F-B1AF-EB6D5E2F505C}|Domain\\Domain.csproj|c:\\filles dotnet\\doacoes_web\\domain\\entities\\enums\\statusdoacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B67474-6F72-4F8F-B1AF-EB6D5E2F505C}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\enums\\statusdoacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B67474-6F72-4F8F-B1AF-EB6D5E2F505C}|Domain\\Domain.csproj|c:\\filles dotnet\\doacoes_web\\domain\\entities\\enums\\categoriaalimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B67474-6F72-4F8F-B1AF-EB6D5E2F505C}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\enums\\categoriaalimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{93B67474-6F72-4F8F-B1AF-EB6D5E2F505C}|Domain\\Domain.csproj|c:\\filles dotnet\\doacoes_web\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{93B67474-6F72-4F8F-B1AF-EB6D5E2F505C}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -19,6 +71,175 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20250314010548_Add colunas tabela doacoes.cs",
+              "DocumentMoniker": "C:\\filles dotnet\\Doacoes_Web\\Doacoes_Web\\Migrations\\20250314010548_Add colunas tabela doacoes.cs",
+              "RelativeDocumentMoniker": "Doacoes_Web\\Migrations\\20250314010548_Add colunas tabela doacoes.cs",
+              "ToolTip": "C:\\filles dotnet\\Doacoes_Web\\Doacoes_Web\\Migrations\\20250314010548_Add colunas tabela doacoes.cs",
+              "RelativeToolTip": "Doacoes_Web\\Migrations\\20250314010548_Add colunas tabela doacoes.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:05:49.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnidadeMedida.cs",
+              "DocumentMoniker": "C:\\filles dotnet\\Doacoes_Web\\Domain\\Entities\\Enums\\UnidadeMedida.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Enums\\UnidadeMedida.cs",
+              "ToolTip": "C:\\filles dotnet\\Doacoes_Web\\Domain\\Entities\\Enums\\UnidadeMedida.cs",
+              "RelativeToolTip": "Domain\\Entities\\Enums\\UnidadeMedida.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:01:27.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250314005447_InitialCreate.cs",
+              "DocumentMoniker": "C:\\filles dotnet\\Doacoes_Web\\Doacoes_Web\\Migrations\\20250314005447_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Doacoes_Web\\Migrations\\20250314005447_InitialCreate.cs",
+              "ToolTip": "C:\\filles dotnet\\Doacoes_Web\\Doacoes_Web\\Migrations\\20250314005447_InitialCreate.cs",
+              "RelativeToolTip": "Doacoes_Web\\Migrations\\20250314005447_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:54:47.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\filles dotnet\\Doacoes_Web\\Doacoes_Web\\Program.cs",
+              "RelativeDocumentMoniker": "Doacoes_Web\\Program.cs",
+              "ToolTip": "C:\\filles dotnet\\Doacoes_Web\\Doacoes_Web\\Program.cs",
+              "RelativeToolTip": "Doacoes_Web\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:20:48.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\filles dotnet\\Doacoes_Web\\Doacoes_Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Doacoes_Web\\appsettings.json",
+              "ToolTip": "C:\\filles dotnet\\Doacoes_Web\\Doacoes_Web\\appsettings.json",
+              "RelativeToolTip": "Doacoes_Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T00:20:12.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\filles dotnet\\Doacoes_Web\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\filles dotnet\\Doacoes_Web\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-14T00:15:21.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\filles dotnet\\Doacoes_Web\\Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\filles dotnet\\Doacoes_Web\\Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:15:42.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoriaAlimento.cs",
+              "DocumentMoniker": "C:\\filles dotnet\\Doacoes_Web\\Domain\\Entities\\Enums\\CategoriaAlimento.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Enums\\CategoriaAlimento.cs",
+              "ToolTip": "C:\\filles dotnet\\Doacoes_Web\\Domain\\Entities\\Enums\\CategoriaAlimento.cs",
+              "RelativeToolTip": "Domain\\Entities\\Enums\\CategoriaAlimento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:03:49.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Doacao.cs",
+              "DocumentMoniker": "C:\\filles dotnet\\Doacoes_Web\\Domain\\Entities\\Models\\Doacao.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Models\\Doacao.cs",
+              "ToolTip": "C:\\filles dotnet\\Doacoes_Web\\Domain\\Entities\\Models\\Doacao.cs",
+              "RelativeToolTip": "Domain\\Entities\\Models\\Doacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T23:59:26.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StatusDoacao.cs",
+              "DocumentMoniker": "C:\\filles dotnet\\Doacoes_Web\\Domain\\Entities\\Enums\\StatusDoacao.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Enums\\StatusDoacao.cs",
+              "ToolTip": "C:\\filles dotnet\\Doacoes_Web\\Domain\\Entities\\Enums\\StatusDoacao.cs",
+              "RelativeToolTip": "Domain\\Entities\\Enums\\StatusDoacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:08:28.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Doador_Empresa.cs",
+              "DocumentMoniker": "C:\\filles dotnet\\Doacoes_Web\\Domain\\Entities\\Models\\Doador_Empresa.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Models\\Doador_Empresa.cs",
+              "ToolTip": "C:\\filles dotnet\\Doacoes_Web\\Domain\\Entities\\Models\\Doador_Empresa.cs",
+              "RelativeToolTip": "Domain\\Entities\\Models\\Doador_Empresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T23:57:57.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Doador.cs",
+              "DocumentMoniker": "C:\\filles dotnet\\Doacoes_Web\\Domain\\Entities\\Models\\Doador.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Models\\Doador.cs",
+              "ToolTip": "C:\\filles dotnet\\Doacoes_Web\\Domain\\Entities\\Models\\Doador.cs",
+              "RelativeToolTip": "Domain\\Entities\\Models\\Doador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T23:46:28.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\filles dotnet\\Doacoes_Web\\Domain\\Entities\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Models\\Usuario.cs",
+              "ToolTip": "C:\\filles dotnet\\Doacoes_Web\\Domain\\Entities\\Models\\Usuario.cs",
+              "RelativeToolTip": "Domain\\Entities\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T23:43:12.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Domain.csproj",
               "DocumentMoniker": "C:\\filles dotnet\\Doacoes_Web\\Domain\\Domain.csproj",
               "RelativeDocumentMoniker": "Domain\\Domain.csproj",
